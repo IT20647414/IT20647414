@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif)]
+[![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)]
 <h1 align="center">Hi 👋, I'm Ayesh Bataduwaarachchi</h1>
 <h3 align="center">Web developer & UI/UX designer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it20647414&show_icons=true&locale=en" alt="it20647414" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it20647414&" alt="it20647414" /></p>
+<img align="left" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif">
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20647414&" alt="it20647414" /></p>
