@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif)
 <h1 align="center">Hi 👋, I'm Ayesh Bataduwaarachchi</h1>
-<h3 align="center">Web developer & UI/UX designer from Sri Lanka</h3>
+<h3 align="center">Associate Software Engineer & UI/UX designer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20647414&label=Profile%20views&color=0e75b6&style=flat" alt="it20647414" /> </p>
