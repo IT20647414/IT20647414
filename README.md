@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, Spring boot and node Js**
 
-- 📫 How to reach me **ayeshisuranga@gmail.com**
+- 📫 How to reach me **ayeshbataduwaarachchi@gmail.com**
 
 - ⚡ Fun fact **I think I am Iron man**
 
